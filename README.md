@@ -2,7 +2,7 @@
 <!-- <h1>RCTrans</h1> -->
 <h3>[Under Review] Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning</h3>
 <h4>Yiheng Li, Zicahng Tan, Zhen Lei, Xu Zhou and Yang Yang<h4>
-<h5>MAIS&CASIA, UCAS<h5>
+<h5>MAIS&CASIA, UCAS, Sangfor<h5>
 </div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
