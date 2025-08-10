@@ -22,3 +22,10 @@ This repository is an official implementation of IAPL, codes and weight will be 
 | GenImage | 96.7  | 99.5  |
 
 ## Citation
+```
+@article{li2025towards,
+  title={Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning},
+  author={Li, Yiheng and Tan, Zichang and Lei, Zhen and Zhou, Xu and Yang, Yang},
+  journal={arXiv preprint arXiv:2508.01603},
+  year={2025}
+'''
