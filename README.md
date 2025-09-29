@@ -14,6 +14,9 @@ This repository is an official implementation of IAPL, codes and weight will be 
 ## Methods
 ![](IAPL_overview.png)
 
+## Visualization
+![](visualization.png)
+
 ## Results
 
 | Benchmark |  mACC(%)  |  mAP(%)   | 
