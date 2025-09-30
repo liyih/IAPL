@@ -5,7 +5,7 @@
 <h5>MAIS&CASIA, UCAS, Sangfor<h5>
 </div>
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2508.01603)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2508.01603v2)
 
 ## Introduction
 
