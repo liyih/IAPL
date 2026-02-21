@@ -11,6 +11,9 @@
 
 This repository is an official implementation of IAPL, codes and weight will be released after paper accepted.
 
+## News
+- [2026/2/21] Our paper is accepted by CVPR 2026, all the codes and weights will be released as soon as possible.
+
 ## Methods
 ![](IAPL_overview.png)
 
