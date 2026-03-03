@@ -20,6 +20,12 @@ This repository is an official implementation of IAPL, codes and weight will be 
 ## Visualization
 ![](visualization.png)
 
+## Environment Setting
+## Citation
+```
+pip install -r requirements.txt
+```
+
 ## Results
 
 | Benchmark |  mACC(%)  |  mAP(%)   | 
