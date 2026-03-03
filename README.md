@@ -106,6 +106,10 @@ Results:
 
 We release the pre-trained models on [ModelScope](https://modelscope.cn/models/yihengli/IAPL_pretrain) 
 
+## Acknowledgement
+
+We sincerely thank the following repos: [UniversalFakeDetect](https://github.com/WisconsinAIVision/UniversalFakeDetect), [FatFormer](https://github.com/Michel-liu/FatFormer), [AIDE](https://github.com/shilinyan99/AIDE) and [TPT](https://github.com/azshue/TPT).
+
 ## Citation
 ```
 @article{li2025towards,
