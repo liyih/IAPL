@@ -152,7 +152,7 @@ class Dataset_Creator_GenImage:
                 transforms.RandomCrop(crop_resolution),
                 transforms.RandomHorizontalFlip(),
                 transforms.ToTensor(),
-                transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
+                transforms.Normalize(mean=[0.481, 0.458, 0.408], std=[0.269, 0.261, 0.276]),
             ]),
             "val": transforms.Compose([
                 transforms.Lambda(lambda img: translate_duplicate(img, crop_resolution)),
