@@ -28,6 +28,38 @@ pip install -r requirements.txt
 ## Data Preparation
 Download [UniversalFakeDetect](https://github.com/WisconsinAIVision/UniversalFakeDetect) and [GenImage](https://github.com/GenImage-Dataset/GenImage) Datasets.
 
+Organize the directory structure as follows:
+```
+Datasets
+└── UniversalFakeDetect
+    └── train
+          ├── car
+          ├── horse
+          │      .
+          │      .
+    └── test					
+          ├── progan	
+          │── cyclegan   	
+          │── biggan
+          │      .
+          │      .
+
+└── GenImage
+    └── train
+          ├── SDv14
+              ├── 0_real
+              ├── 1_fake
+
+    └── test					
+          ├── ADM
+              ├── 0_real
+              ├── 1_fake
+          │── BigGAN   	
+          │── glide
+          │      .
+          │      .
+```
+
 ## Results
 
 | Benchmark |  mACC(%)  |  mAP(%)   | 
