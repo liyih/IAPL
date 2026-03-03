@@ -21,10 +21,12 @@ This repository is an official implementation of IAPL, codes and weight will be 
 ![](visualization.png)
 
 ## Environment Setting
-## Citation
 ```
 pip install -r requirements.txt
 ```
+
+## Data Preparation
+Download [UniversalFakeDetect](https://github.com/WisconsinAIVision/UniversalFakeDetect) and [GenImage](https://github.com/GenImage-Dataset/GenImage) Datasets.
 
 ## Results
 
