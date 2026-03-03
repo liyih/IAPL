@@ -61,12 +61,50 @@ Datasets
           │      .
 ```
 
-## Results
+## Experiments on 4-Class ProGAN
+Training:
+```
+sh run_universalfake.sh
+```
+Testing on universalfakedetect:
+```
+sh tta_universalfake.sh
+```
+Testing on Chameleon:
+```
+sh tta_chameleon.sh
+```
 
+Results:
 | Benchmark |  mACC(%)  |  mAP(%)   | 
 | :-------- | :---: | :---: |
 | UniversalFakeDetect   | 95.61  | 99.32  |
+| Chameleon | 60.70  | 50.43  |
+
+## Experiments on SD v1.4
+
+Training:
+```
+sh run_genimage.sh
+```
+Testing on GenImage:
+```
+sh tta_genimage.sh
+```
+Testing on Chameleon:
+```
+sh tta_chameleon_sdv1.4.sh
+```
+
+Results:
+| Benchmark |  mACC(%)  |  mAP(%)   | 
+| :-------- | :---: | :---: |
 | GenImage | 96.7  | 99.5  |
+| Chameleon | 75.09  | 64.69  |
+
+## Pre-trained Models
+
+We release the pre-trained models on [ModelScope](https://modelscope.cn/models/yihengli/IAPL_pretrain) 
 
 ## Citation
 ```
