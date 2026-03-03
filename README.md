@@ -12,7 +12,8 @@
 This repository is an official implementation of IAPL, codes and weight will be released after paper accepted.
 
 ## News
-- [2026/2/21] Our paper is accepted by CVPR 2026, all the codes and weights will be released as soon as possible.
+- [2026/3/4] Codes and pre-trained weights are released.
+- [2026/2/21] Our paper is accepted by CVPR 2026.
 
 ## Methods
 ![](IAPL_overview.png)
@@ -71,7 +72,7 @@ Datasets
 ```
 @article{li2025towards,
   title={Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning},
-  author={Li, Yiheng and Tan, Zichang and Lei, Zhen and Zhou, Xu and Yang, Yang},
+  author={Li, Yiheng and Tan, Zichang and Xu, Guoqing and Lei, Zhen and Zhou, Xu and Yang, Yang},
   journal={arXiv preprint arXiv:2508.01603},
-  year={2025}
+  year={2025}}
 ```
