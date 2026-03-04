@@ -57,7 +57,7 @@ def get_preaugment(do_resize, dataset):
 
         return transforms.Compose([
                     transforms.Resize((256, 256)),
-                    transforms.RandomResizedCrop(224, scale=(0.5, 1.0), ratio=(1., 1.)),
+                    transforms.RandomResizedCrop(224),
                     transforms.RandomHorizontalFlip(),
                 ])
 
