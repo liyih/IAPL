@@ -113,7 +113,7 @@ class CLIPModel(nn.Module):
                'SIZE': [args.image_size, args.image_size],
                'VISION_WIDTH': args.vision_width,}
         
-        clip_model = load_clip_to_cpu('/home/liyiheng/NPR-new/ViT-L-14.pt', cfg['N_CTX'], args.vit_adapter_list, args.text_adapter_list, args.prompt_depth, args.gate)
+        clip_model = load_clip_to_cpu('/Path/to/ViT-L-14.pt', cfg['N_CTX'], args.vit_adapter_list, args.text_adapter_list, args.prompt_depth, args.gate)
 
         # learnable prompts
         self.prompt_learner = MultiModalPromptLearner(cfg, clip_model)

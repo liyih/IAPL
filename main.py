@@ -53,7 +53,7 @@ def get_args_parser():
 
     # model
     parser.add_argument('--backbone', type=str, default='CLIP:ViT-L/14')
-    parser.add_argument('--clip_path', type=str, default='/home/liyiheng/NPR-new/ViT-L-14.pt')
+    parser.add_argument('--clip_path', type=str, default='/Path/to/ViT-L-14.pt')
 
     # ctx
     parser.add_argument('--image_size', type=int, default=224)
