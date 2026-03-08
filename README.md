@@ -1,7 +1,7 @@
 <div align="center">
 <!-- <h1>RCTrans</h1> -->
 <h3>Towards Generalizable AI-Generated Image Detection via Image-Adaptive Prompt Learning</h3>
-<h4>Yiheng Li, Zicahng Tan, Zhen Lei, Xu Zhou and Yang Yang<h4>
+<h4>Yiheng Li, Zicahng Tan, Guoqing Xu, Zhen Lei, Xu Zhou and Yang Yang<h4>
 <h5>MAIS&CASIA, UCAS, Sangfor<h5>
 </div>
 
