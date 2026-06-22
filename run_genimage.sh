@@ -10,7 +10,7 @@ python -m torch.distributed.launch \
     --lr 0.00005 \
     --model_name genimage_sd14\
     --dataset GenImage \
-    --epoch 5 \
+    --epoch 1 \
     --lr_drop 10 \
     --gate True \
     --condition True\
